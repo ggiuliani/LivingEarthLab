@@ -1,0 +1,9 @@
+# Berchidda
+extent:
+	min_x: 8.55
+	max_x: 9.63
+	min_y: 40.10
+	max_y: 41.19
+
+resolution: [10,-10]
+crs: "EPSG:32632"

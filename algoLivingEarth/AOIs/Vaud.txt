@@ -1,0 +1,9 @@
+# Vaud 
+extent:
+	min_x: 6.49
+	max_x: 7.01
+	min_y: 46.51
+	max_y: 46.92
+
+resolution: [10,-10]
+crs: "EPSG:2056"
