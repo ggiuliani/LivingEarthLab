@@ -1,8 +1,8 @@
 # Berchidda
 extent:
-	min_x: 8.55
+	min_x: 9.04
 	max_x: 9.63
-	min_y: 40.10
+	min_y: 40.66
 	max_y: 41.19
 
 resolution: [10,-10]
