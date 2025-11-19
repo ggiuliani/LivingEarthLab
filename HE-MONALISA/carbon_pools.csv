@@ -1,0 +1,7 @@
+lucode,LULC_Name,C_above,C_below,C_soil,C_dead
+111,Cultivated Terrestrial Vegetated,2,1,10,0
+112,Natural Terrestrial Vegetated,75,45,85,20
+215,Artificial Surface,0,0,0,0
+216,Natural Surface,0,0,0,0
+227,Artificial Water,0,0,0,0
+228,Natural Water,0,0,0,0
