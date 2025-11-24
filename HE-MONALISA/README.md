@@ -1,9 +1,7 @@
 # MONALISA repository
 This is the repository of University of Geneva - Living Earth Lab for the Horizon-Europe [MONALISA](https://monalisa4land.eu) project .
 
-![MONALISA.\label{fig1}](img/Monalisa-Ver.png){width=100 height=100}
-
-
+<img src="img/Monalisa-Ver.png" alt="MONALISA" width="100"/>
 
 
 ## Contributor guidelines
