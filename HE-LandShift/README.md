@@ -1,4 +1,4 @@
-# MONALISA repository
+# LandShift repository
 This is the repository of University of Geneva - Living Earth Lab for the Horizon-Europe [LandShift](https://landshift.eu) project .
 
 <p align="center">
