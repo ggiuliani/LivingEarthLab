@@ -17,6 +17,7 @@ Version: 1.2 [10.11.2025]
 
 ## Installation
 These notebooks requires [geemap](https://geemap.org)
+See the [Installation](https://geemap.org/installation/) procedure
 
 ## Contributor guidelines
 Contributions are welcome and greatly appreciated! To contribute, please follow the following guidelines:
