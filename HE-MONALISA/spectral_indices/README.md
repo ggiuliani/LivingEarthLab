@@ -1,5 +1,5 @@
 # Spectral Indices
-These notebooks could be used to produce relevant spectral indices for Land Degradation analysise using eithet Sentinel-2 or Landsat sensors.
+These notebooks could be used to produce relevant spectral indices for Land Degradation analysis using either Sentinel-2 or Landsat sensors.
 
 This notebook allows computing 37 RS indices from Sentinel-2 based on the "Indicators_vs_Pressures.xslx" document; enhacing reproducibility and comparability
 
