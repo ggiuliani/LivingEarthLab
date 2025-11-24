@@ -1,7 +1,9 @@
 # MONALISA repository
 This is the repository of University of Geneva - Living Earth Lab for the Horizon-Europe [MONALISA](https://monalisa4land.eu) project .
 
-<p style="text-align:center"><img src="img/Monalisa-Ver.png" alt="MONALISA" width="200"/></p>
+<img src="img/Monalisa-Ver.png" alt="MONALISA" width="200"/>
+
+- [Spectral Indices](spectral_indices): with these notebooks users can produce relevant spectral indices for Land Degradation.
 
 
 ## Contributor guidelines
