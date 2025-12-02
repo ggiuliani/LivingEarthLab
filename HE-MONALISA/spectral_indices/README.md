@@ -1,9 +1,7 @@
 # Spectral Indices
-These notebooks could be used to produce relevant spectral indices for Land Degradation analysis using either Sentinel-2 or Landsat sensors.
+These notebooks allow computing 37 different remote sensing indices for Land Degradation analysis using either Sentinel-2 or Landsat sensors.
 
-This notebook allows computing 37 RS indices from Sentinel-2 based on the "Indicators_vs_Pressures.xslx" document; enhacing reproducibility and comparability
-
-* **Sentinel-2 True Color**
+* **Sentinel-2 or Landsat True Color**
 * **Soil indices:** Normalized Difference Soil Index (NDSI); Bare Soil Index (BSI); modified Bare Soil Index (MBI)
 * **Soil Salinity indices:**  Soil Salinity Index-1 (SSI1); Soil Salinity Index-2 (SSI-2); Soil Salinity Index-3 (SSI-3); Salinitiy Index (SI); Soil Adjusted Salinity Index (SASI); Normalized Difference Salinity Index (NDSaI)
 * **Vegetation indices:** Normalized Difference Vegetation Index (NDVI); Red Edge Position (REP); Green Normalized Difference Vegetation Index (GNDVI); Soil Adjusted Vegetation Index (SAVI); Modified Soil Adjusted Vegetation Index (MSAVI); Modified Soil Adjusted Vegetation Index-2 (MSAVI2); Optimized Soil-Adjusted Vegetation Index (OSAVI), Normalized Difference Red Edge (NDRE); Atmospherically Resistant Vegetation Index (ARVI); Enhanced Vegeation Index (EVI); Enhanced Vegetation Index-2 (EVI2); Fractional Vegetation Cover (FVC); Color Infrared (CIR); Plant Senescence Reflectance Index (PSRI); Normalized Difference Chlorophyll Index (NDCI); Normalized Difference Tillage Index (NDTI); Green Red Vegetation Index (GRVI); Visible Atmospherically Resistent Index (VARI)
